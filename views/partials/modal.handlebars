@@ -1,6 +1,11 @@
+<div class="modal">
 <h1>{{name}}</h1>
-<img style="width: 800px; height:500px" src={{linkImg}} alt={{name}}>
-<p>{{category}}</p>
-<p>{{description}}</p>
-<p>Nota de 0 a 10: {{nota}}</p>
-<a href={{searchGoogle}}>Ir para o google</a>
+<img src={{linkImg}} alt={{name}}>
+<div class="modal-text">
+<p><span class="bold">Categoria: </span>{{category}}</p>
+<span class="bold">Descrição:</span>
+<textarea disabled>{{description}}</textarea>
+<p><span class="bold">Nota de 0 a 10: </span>{{nota}}</p>
+</div>
+<a target="_blank" href={{searchGoogle}}>Ir para o google</a>
+</div>

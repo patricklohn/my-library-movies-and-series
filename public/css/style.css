@@ -36,3 +36,66 @@ body{
 .home p{
     text-align: center;
 }
+
+.ModalPai{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.ModalPai h1{
+    padding: 1rem;
+}
+
+.ModalTwo{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #abc8e6;
+    border-radius: 10px;
+}
+
+.modal{ 
+    min-width: 33.33%;
+    max-width: 33.33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.modal-text{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    margin: 1rem;
+}
+
+.modal-text textarea{
+    width: 350px;
+    height: 150px;
+    resize: none;
+    animation: none;
+    border: none;
+    background-color: #abc8e6;
+    color: #000;
+}
+
+.modal img{
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 150px;
+    max-height: 150px;
+}
+
+.modal a{
+    color: #000;
+    
+}
+
+
+/* Utilidades */
+
+.bold{
+    font-weight: bold;
+}
