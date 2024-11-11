@@ -1,0 +1,42 @@
+[
+{
+    "name": "Naruto Shippuden",
+    "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTblCIQTOwkSf3O4AZRC0njJcSYDwW0EaHg&s",
+    "category": "Drama",
+    "description": "O enredo de Naruto Shippuden dá continuidade à história do ninja Naruto Uzumaki, iniciada no anime antecessor. Nesta nova fase, três anos se passaram desde que Sasuke Uchiha, o melhor amigo do protagonista, deixou Konoha e se tornou um ninja fugitivo com o objetivo de matar o irmão mais velho, Itachi.",
+    "nota": "8",
+    "searchGoogle": "https://www.google.com/search?q=Naruto+Shippuden"
+},
+{
+    "name": "Naruto",
+    "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B_qCvhxy-UptqubYsQE5rMUbRIiy45Wi8Q&s",
+    "category": "Drama",
+    "description": "Naruto Uzumaki é apresentado como um jovem rapaz louro, cabelos arrepiados e olhos azuis. Ele frequentemente veste uma jaqueta laranja. Após a sua graduação ninja ele começa a usar um protetor de testa que denota a sua posição como um ninja da Vila Oculta da Folha.",
+    "nota": "9",
+    "searchGoogle": "https://www.google.com/search?q="
+},
+{
+    "name": "Boruto: Naruto Next Generations",
+    "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVRk9tlAC75URezSB9VtPhEhq2F4dyorneg&s",
+    "category": "Drama",
+    "description": "Boruto: Naruto Next Generations é uma série de mangá escrita por Ukyō Kodachi e Masashi Kishimoto, e ilustrada por Mikio Ikemoto.",
+    "nota": "8",
+    "searchGoogle": "https://www.google.com/search?q="
+},
+{
+    "name": "The Office",
+    "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAGLFs3bhGjw_b69svNNomPdzT1zYSaBVEg&s",
+    "category": "Sitcom",
+    "description": "Esta adaptação americana se passa em uma empresa de papel em Scranton, Pensilvânia e tem um estilo de documentário semelhante ao original britânico estrelado por Ricky Gervais. Mostra a equipe da Dunder-Mifflin, que inclui personagens baseados no original britânico (e, provavelmente, em pessoas com quem você trabalha em seu escritório). Temos Jim, o simpático empregado que tem um pouco de todo homem. Jim sente uma atração pela recepcionista promovida a representante de vendas Pam (pois romances de escritório são sempre uma boa ideia). Temos também Dwight, o colega de trabalho bem-sucedido que carece de habilidades sociais e bom senso. E há ainda Ryan, ex-estagiário que trabalha temporariamente na matriz em Nova York antes de retornar a Scranton.",
+    "nota": "10",
+    "searchGoogle": "https://www.google.com/search?q=The+Office"
+},
+{
+    "name": "Brooklyn Nine-Nine",
+    "linkImg": "https://cinematologia.com.br/cine/wp-content/uploads/2021/05/maxresdefault.jpg",
+    "category": "Sitcom",
+    "description": "Jake Peralta é um detetive brilhante e ao mesmo tempo imaturo, que nunca precisou se preocupar em respeitar as regras. Tudo muda quando um capitão exigente assume o comando de seu esquadrão e Jake deve aprender a trabalhar em equipe.",
+    "nota": "9",
+    "searchGoogle": "https://www.google.com/search?q=Brooklyn+Nine+Nine"
+}
+]

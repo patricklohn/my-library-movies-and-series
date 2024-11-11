@@ -21,8 +21,18 @@ function getDataFilmes(){
     return JSON.parse(jsonDataFilems);
 }
 
+function getDataSeries(){
+    const jsonDataFilems = fs.readFileSync("data/series.json",{
+        encoding: 'utf8',
+        flag: 'r',
+    });
+
+    return JSON.parse(jsonDataFilems);
+}
+
+
 app.get('/series',(req,res)=>{
-    let modals = getDataFilmes()
+    let modals = getDataSeries()
     res.render('series',{modals})
 })
 

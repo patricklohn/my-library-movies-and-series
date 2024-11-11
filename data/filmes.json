@@ -30,5 +30,37 @@
         "description": "Na Primeira Guerra Mundial, dois soldados britânicos recebem ordens aparentemente impossíveis de cumprir. Em uma corrida contra o tempo, eles precisam atravessar o território inimigo e entregar uma mensagem que pode salvar 1.600 de seus companheiros.",
         "nota": "10",
         "searchGoogle": "https://www.google.com/1917"
+    },
+    {
+        "name": "A Fuga das Galinhas",
+        "linkImg": "https://m.media-amazon.com/images/S/pv-target-images/4856dcb9c2aace9bac84e20b1a6420565085e8a223ab9ee06ea075ca99bc9e04.jpg",
+        "category": "Infantil/Comédia",
+        "description": "No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.",
+        "nota": "8",
+        "searchGoogle": "https://www.google.com/search?q=A+Fuga+das+Galinhas"
+    },
+    {
+        "name": "Pulp Fiction: Tempo de Violência",
+        "linkImg": "https://m.media-amazon.com/images/I/51DZpY7tfoL._AC_UF894,1000_QL80_.jpg",
+        "category": "Crime/Thriller",
+        "description": "Assassino que trabalha para a máfia se apaixona pela esposa de seu chefe quando é convidado a acompanhá-la, um boxeador descumpre sua promessa de perder uma luta e um casal tenta um assalto que rapidamente sai do controle.",
+        "nota": "10",
+        "searchGoogle": "https://www.google.com/search?q=Pulp+Fiction"
+    },
+    {
+        "name": "O Castelo Animado",
+        "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwBCIf_BYdgPsQMZQM4-W6woBT4XiOWebWg&s",
+        "category": "Infantil/Fantasia",
+        "description": "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma velha. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que pode ajudá-la a reverter o feitiço.",
+        "nota": "10",
+        "searchGoogle": "https://www.google.com/search?q=O+Castelo+Animado"
+    },
+    {
+        "name": "Madrugada dos Mortos",
+        "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RsAYXheXM2n3fAyoObwPsDPUOM3sRQmhNg&s",
+        "category": "Terror/Ação",
+        "description": "Depois que um mal transforma a maior parte da humanidade em zumbis sedentos de sangue, um pequeno grupo de sobreviventes encontra refúgio em um shopping center. É apenas uma questão de tempo até que os mortos-vivos cheguem, e a comida está acabando. Quando a eletricidade é cortada, o grupo precisa encontrar uma maneira de escapar das centenas de zumbis que tomam conta das ruas.",
+        "nota": "7.5",
+        "searchGoogle": "https://www.google.com/search?q=Madrugada+dos+Mortos"
     }
 ]

@@ -52,15 +52,23 @@ body{
     flex-wrap: wrap;
     background-color: #abc8e6;
     border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .modal{ 
-    min-width: 33.33%;
-    max-width: 33.33%;
+    min-width: 28%;
+    max-width: 28%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    border-radius: 20px;
+    padding: 1rem;
+    background-color: aqua;
 }
 
 .modal-text{
@@ -72,13 +80,15 @@ body{
 }
 
 .modal-text textarea{
-    width: 350px;
+    width: 300px;
     height: 150px;
     resize: none;
     animation: none;
     border: none;
     background-color: #abc8e6;
     color: #000;
+    padding: 0.5rem;
+    border-radius: 10px;
 }
 
 .modal img{
