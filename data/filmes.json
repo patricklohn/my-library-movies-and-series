@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Carandiru: O Filme",
+        "linkImg": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/00/05/19870969.jpg",
+        "category": "Crime/Drama",
+        "description": "Médico sanitarista se oferece para realizar o trabalho de prevenção ao vírus HIV no Carandiru, maior presídio da América Latina, durante a década de 1990. Convivendo diariamente com a dura realidade dos detentos, ele presencia a violência agravada pela superlotação.",
+        "nota": "6",
+        "searchGoogle": "https://www.google.com/search?q=Carandiru:+O+Filme"
+    },
+    {
+        "name": "Poderoso Chefão",
+        "linkImg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdn65mLMLQpkC4qYpW1RkRihWAPAr3S8aiM_YwHX3jxQuSL5XScTA_Ae4GlOYPrl16ZauC-blauUb1rtS9ZVnL31_zDwzwyNeXcYLAkw",
+        "category": "Crime/Ficção policial",
+        "description": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+        "nota": "10",
+        "searchGoogle": "https://www.google.com/search?q=Poderoso:+Chefão"
+    },
+    {
+        "name": "Django Livre",
+        "linkImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveIIcqGajN50Ic8RJs6IlglJSvKuZF4VikQ&s",
+        "category": "Faroeste/Ação",
+        "description": "No sul dos Estados Unidos, o ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para perseguir os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a entrarem em competições mortais.",
+        "nota": "8",
+        "searchGoogle": "https://www.google.com/Django+Livre"
+    },
+    {  
+        "name": "1917",
+        "linkImg": "https://cinemaemcena.com.br/uploads/banners/1579935064_poster.jpg",
+        "category": "Guerra/Ação",
+        "description": "Na Primeira Guerra Mundial, dois soldados britânicos recebem ordens aparentemente impossíveis de cumprir. Em uma corrida contra o tempo, eles precisam atravessar o território inimigo e entregar uma mensagem que pode salvar 1.600 de seus companheiros.",
+        "nota": "10",
+        "searchGoogle": "https://www.google.com/1917"
+    }
+]
